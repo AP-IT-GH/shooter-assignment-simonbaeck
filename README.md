@@ -1,1 +1,1 @@
-# Rocket assignment - Simon Baeck
+# Shooter assignment - Simon Baeck
